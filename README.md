@@ -1,4 +1,4 @@
 # streambase-redis-adapters
 Redis Adapters for TIBCO StreamBase
 
-see RedisAdapter/README for details
+see RedisAdapter/README.txt for details
