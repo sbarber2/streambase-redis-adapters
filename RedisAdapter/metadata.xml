@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-  <component title="Redis Adapters" 
+  <component title="Redis Adapters for TIBCO StreamBase&#174" 
   author="John Drummond (John@ausset.net)" 
-  version="1.1"
+  version="1.2"
   sbversion="7.6" 
   blurb="Adapters to send and receive messages from a Redis database, including streaming">
   These adapters connect StreamBase to Redis (http://redis.io/) for input and output.

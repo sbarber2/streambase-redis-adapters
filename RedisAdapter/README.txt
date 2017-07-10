@@ -29,6 +29,9 @@ The StreamBase applications in this project assume a Redis server is
 running on port 6379 of the localhost. 
 
 History:
+1.2 SEB
+ * add TIBCO_license.txt
+ * metadata.xml: add 'for TIBCO StreamBase&#174' to title of component
 1.1 SEB
  * Update to and test with StreamBase 7.6.7
  * Update to Redis 3.2.1 and Jedis 2.9.1 (https://github.com/xetorthio/jedis/archive/2.9.zip)
